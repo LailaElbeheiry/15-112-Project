@@ -1,5 +1,7 @@
 # EEE-ICR
 "An extremely exceedingly exceptionally intelligent character recognizer"
+
+
 A user-friendly program that takes images with handwritten text as input and recognizes the text and saves it in a text file.
 
 How to run:
